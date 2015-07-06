@@ -1,0 +1,53 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Campos de una entrada de flujo}}{22}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces \textit {Match Fields} requeridos por \emph {OpenFlow}.}}{23}{table.2.2}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Resumen controladores SDN}}{28}{table.2.3}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Planificaci\IeC {\'o}n temporal del proyecto}}{34}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Estimaci\IeC {\'o}n de costes en recursos hardware.}}{35}{table.3.2}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Comparativa soluciones propuestas para actualizaci\IeC {\'o}n de ruta.}}{55}{table.4.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Comparativa entre instalaci\IeC {\'o}n y virtualizaci\IeC {\'o}n de \ac {SO}}}{59}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Comparativa \acs {AD}-\acs {SAL} y \acs {MD}-\acs {SAL}}}{66}{table.5.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Estad\IeC {\'\i }sticas capturadas para el enlace S3-S1.}}{83}{table.7.1}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Estad\IeC {\'\i }sticas recogidas enlace S1-S3 para el env\IeC {\'\i }o de v\IeC {\'\i }deo sobre RTP.}}{84}{table.7.2}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Latencias medias obtenidas en ms. Primera prueba.}}{85}{table.7.3}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Media de latencias instant\IeC {\'a}neas. 5 experimentos.}}{86}{table.7.4}
+\contentsline {table}{\numberline {7.5}{\ignorespaces Media de latencias medias. 5 experimentos.}}{86}{table.7.5}
+\contentsline {table}{\numberline {7.6}{\ignorespaces Requerimientos \ac {VoIP} \ac {QoS}}}{88}{table.7.6}
+\contentsline {table}{\numberline {7.7}{\ignorespaces Requerimientos \ac {QoS} en transmisi\IeC {\'o}n de v\IeC {\'\i }deo seg\IeC {\'u}n \cite {cacheda2007qos}}}{89}{table.7.7}
+\contentsline {table}{\numberline {7.8}{\ignorespaces Resultados del estudio te\IeC {\'o}rico de c\IeC {\'a}lculos de caminos.}}{91}{table.7.8}
+\contentsline {subtable}{\numberline {(a)}{\ignorespaces {Primera tabla de c\IeC {\'a}lculo de costes y caminos con $\alpha $ $\beta $ $\gamma $ variantes.}}}{91}{table.7.8}
+\contentsline {subtable}{\numberline {(b)}{\ignorespaces {Segunda tabla de c\IeC {\'a}lculo de costes y caminos con $\alpha $ $\beta $ $\gamma $ variantes.}}}{91}{table.7.8}
+\contentsline {subtable}{\numberline {(c)}{\ignorespaces {Tercera tabla de c\IeC {\'a}lculo de costes y caminos con $\alpha $ $\beta $ $\gamma $ variantes.}}}{91}{table.7.8}
+\contentsline {table}{\numberline {7.9}{\ignorespaces Matriz de costes para \acs {ICMP} con $\alpha _{icmp} = 1$ $\beta _{icmp} = 1$ y $\gamma _{icmp} = 5$}}{92}{table.7.9}
+\contentsline {table}{\numberline {7.10}{\ignorespaces Matriz de costes para \acs {TCP} con $\alpha _{tcp} = 0.5$ $\beta _{tcp} = 0.1$ y $\gamma _{tcp} = 5$}}{93}{table.7.10}
+\contentsline {table}{\numberline {7.11}{\ignorespaces Matriz de costes para v\IeC {\'\i }deo sobre \ac {RTP} con $\alpha _{v\mathaccentV {acute}013{i}deo} = 0.1$ $\beta _{v\mathaccentV {acute}013{i}deo} = 0.5$ y $\gamma _{v\mathaccentV {acute}013{i}deo} = 10$}}{93}{table.7.11}
+\contentsline {table}{\numberline {7.12}{\ignorespaces Matriz de costes \ac {VoIP} sobre \ac {RTP} con $\alpha _{voip} = 1$ $\beta _{voip} = 1$ y $\gamma _{voip} = 10$}}{93}{table.7.12}
+\contentsline {table}{\numberline {7.13}{\ignorespaces Resultados obtenidos en segunda topolog\IeC {\'\i }a para evaluaci\IeC {\'o}n del algoritmo \textit {Dijkstra}.}}{94}{table.7.13}
+\contentsline {table}{\numberline {7.14}{\ignorespaces Resultados aplicaci\IeC {\'o}n de algoritmo \textit {Dijkstra} sobre flujos \ac {RTP} \ac {VoIP} en \ref {topoDijkstra2}.}}{94}{table.7.14}
+\contentsline {table}{\numberline {7.15}{\ignorespaces Resultados aplicaci\IeC {\'o}n de algoritmo \textit {Dijkstra} sobre paquetes \ac {RTP} v\IeC {\'\i }deo en \ref {topoDijkstra2}.}}{95}{table.7.15}
+\contentsline {table}{\numberline {7.16}{\ignorespaces Caminos y latencias topolog\IeC {\'\i }a \ref {topofinal2}}}{96}{table.7.16}
+\contentsline {table}{\numberline {7.17}{\ignorespaces Tabla de valores \ac {MOS} y su equivalencia.}}{97}{table.7.17}
+\contentsline {table}{\numberline {7.18}{\ignorespaces Resultados 1.}}{99}{table.7.18}
+\contentsline {table}{\numberline {7.19}{\ignorespaces Resultados 2.}}{100}{table.7.19}
+\contentsline {table}{\numberline {7.20}{\ignorespaces Valores \ac {MOS} para los experimentos sobre audio}}{100}{table.7.20}
+\contentsline {table}{\numberline {7.21}{\ignorespaces Resultados ideales (\IeC {\'o}ptimos) \ac {MOS} para la topolog\IeC {\'\i }a de la figura \ref {topofinal1}.}}{100}{table.7.21}
+\contentsline {table}{\numberline {7.22}{\ignorespaces Resultados ideales (\IeC {\'o}ptimos) \ac {MOS} en la topolog\IeC {\'\i }a \ref {topofinal1}}}{101}{table.7.22}
+\contentsline {table}{\numberline {7.23}{\ignorespaces Tiempo sin servicio para la topolog\IeC {\'\i }a \ref {topofinal1} para una ca\IeC {\'\i }da de enlace}}{101}{table.7.23}
+\contentsline {table}{\numberline {7.24}{\ignorespaces Tiempo sin servicio para la topolog\IeC {\'\i }a \ref {topofinal2} para una ca\IeC {\'\i }da de enlace}}{101}{table.7.24}
+\contentsline {table}{\numberline {7.25}{\ignorespaces Propiedades v\IeC {\'\i }deos usados evaluaci\IeC {\'o}n calidad \ac {RTP} v\IeC {\'\i }deo.}}{102}{table.7.25}
+\contentsline {table}{\numberline {7.26}{\ignorespaces Resultados calidad v\IeC {\'\i }deo 1 \ac {RTP}. 1 ca\IeC {\'\i }da de enlace.}}{102}{table.7.26}
+\contentsline {table}{\numberline {7.27}{\ignorespaces Resultados calidad v\IeC {\'\i }deo 2 \ac {RTP}. 4 ca\IeC {\'\i }das de enlace.}}{102}{table.7.27}
+\contentsline {table}{\numberline {7.28}{\ignorespaces Resultados calidad v\IeC {\'\i }deo 3 \ac {RTP}. 2 ca\IeC {\'\i }das de enlace.}}{103}{table.7.28}
+\contentsline {table}{\numberline {7.29}{\ignorespaces Valores \ac {MOS} medios para cada v\IeC {\'\i }deo.}}{103}{table.7.29}
+\contentsline {table}{\numberline {7.30}{\ignorespaces Tiempo sin servicio a partir de la estimaci\IeC {\'o}n de paquetes perdidos.}}{103}{table.7.30}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

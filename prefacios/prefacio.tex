@@ -1,0 +1,146 @@
+\chapter*{}
+%\thispagestyle{empty}
+%\cleardoublepage
+
+%\thispagestyle{empty}
+
+\input{portada/portada_2}
+
+
+
+\cleardoublepage
+\thispagestyle{empty}
+
+\begin{center}
+{\large\bfseries Diseño y evaluación de un servicio OpenFlow de provisión de Calidad de Experiencia sobre Mininet}\\
+\end{center}
+\begin{center}
+Cristian Alfonso Prieto Sánchez\\
+\end{center}
+
+%\vspace{0.7cm}
+\noindent{\textbf{Palabras clave}: OpenDayLight, SDN, OpenFlow, Routing, Dijkstra, redes, Java, Controller, mininet, QoE, QoS.}\\
+
+\vspace{0.7cm}
+\noindent{\textbf{Resumen}}\\
+
+Las redes definidas por software (\ac{SDN}) presentan un cambio de paradigma para las redes futuras, consistente en la separación del plano de control y el de transporte. Introducen grandes ventajas frente a las redes tradicionales. Por un lado los elementos de red podrán ser mucho más sencillos, sin que esto suponga pérdidas de capacidad en ningún caso. Por otro lado se conseguirá un aumento en flexibilidad y velocidad en la automatización de tareas de red debido a la centralización de estas tareas en un elemento único, el controlador.
+
+Las grandes ventajas que presenta este nuevo paradigma ha atraído la atención de grandes fabricantes de la industria, que ya cuenten con sus propias soluciones para redes \ac{SDN}. Esto no ha supuesto una privatización de conocimiento o un estancamiento de la tecnología, todo lo contrario, ya que ha impulsado las líneas de investigación sobre redes \ac{SDN} en la comunidad científica e investigadora.
+
+La transmisión de contenido multimedia supone uno de las mayores fuentes de tráfico de red en la actualidad, y se estima que tráficos como el de vídeo constituirán más del 75\% del tráfico de red en menos de 5 años. Estas transmisiones multimedia requerirán unas condiciones mínimas de transmisión para asegurar \ac{QoS}. 
+
+En este trabajado se pretenden desarrollar servicios basados en \ac{SDN} capaces de proporcionar \ac{QoE} para aplicaciones multimedia, demostrando la capacidad de redes programables para satisfacer requisitos. Concretamente, se diseñará y desarrollará un protocolo de encaminamiento basado en QoS para distintos tipos de tráfico, que sea capaz de reaccionar rápidamente en caso de cambios en la topología de red. Para ello estudiaremos los conceptos que permiten la conformación de redes \ac{SDN}, los protocolos de control y gestión desarrollados para esta tecnología y las principales implementaciones y entornos de desarrollo (privadas y abiertas) de controladores \ac{SDN}.
+
+El ahorro en costes es otro de los puntos que ha suscitado el interés de las grandes compañías por redes \ac{SDN}. La solución presentada en este trabajo también aborda este aspecto, ya que automatiza la configuración de red, permitiendo al administrador ahorrar costes y tiempo en tareas de gestión de redes.  
+
+Para poder llevar a cabo la implementación de la solución propuesta, será asimismo necesario familiarizarse con el uso de varias herramientas de desarrollo de aplicaciones de red SDN (emulador de redes, entornos de desarrollo, etc) que permitan alcanzar los objetivos propuestos. 
+
+No se pretende dar una solución que abarque todos los conceptos y aspectos relacionados con calidad de servicio y de experiencia, pero sí demostrar que las nuevas redes programables añaden nuevas posibilidades y características que mejoran la gestión y automatización de red.
+
+\cleardoublepage
+
+
+\thispagestyle{empty}
+
+
+\begin{center}
+{\large\bfseries Diseño y evaluación de un servicio OpenFlow de provisión de Calidad de Experiencia sobre Mininet}\\
+\end{center}
+\begin{center}
+Cristian Alfonso Prieto Sánchez\\
+\end{center}
+
+%\vspace{0.7cm}
+\noindent{\textbf{Keywords}: OpenDayLight, SDN, OpenFlow, Routing, Dijkstra, redes, Java, Controller, mininet, QoE, QoS.}\\
+
+\vspace{0.7cm}
+\noindent{\textbf{Abstract}}\\
+
+The evolution of multimedia services cause new challenges for the service providers. How can they deal with this challenges? In the same direction mobile networks are 5G are evolving and developing new concepts for their network architecture.
+At the same time, service providers are looking for new methods to reduce costs of the monitoring and management of their networks.
+The SDN architecture is the answer for these questions for many reasons. If we focus on theoretical reasons, SDN allows to reduce \ac{CAPEX} and \ac{OPEX} costs and also allows dynamic and faster management of the network than traditional architectures.
+To use the new architectures will be necessary a special design protocol which allows to manage the new networks. A lot of different protocols could be used, but the most important is OpenFlow protocol. OpenFlow is specially designed to get the best capacity of the new network architecture SDN so that is the principal reason to use this protocol. Additionally, other reasons to select OpenFlow is that it has open source implementations, and that it is supported by a number of important companies.
+
+The support for the OpenFlow protocol will be very important to decide which controller we will choose for our solution. OpenDayLight is a new controller under the Linux Foundation which is supported for a lot of companies such as Cisco, Intel or HP among others. Also, it is necessary to put the focus on the open character of the project, and the active support given by the community of users.
+
+OpenDayLight satisfies these necessary requisites. It is an Open Source controller with  enough facilities to develop a network aplication for the controller. Throughout the project, we will study the concepts which make possible the development of new network applications in an SDN controller.
+
+In this project we will focus on the \ac{QoE} and \ac{QoS} support that SDN networks can provide to developers. We will design a solution to fullfill this objetive. After this we will evaluate our proposal. The solution will use traffic engineering to evaluate the costs for each link (edge). It will  also use the Dijkstra Algorithm to find the best path between two nodes. Finally, our solution will provide a way to delete the routes in switches if a broke path is detected  (for example, a down link) so we will develope a solution for guaranteeing that the network will work after links outages.
+
+Finally we will implement the solution using the JAVA programming language. We will describe the necessary steps to get a robust aplication which should work correctly.
+
+We will evaluate the developed application by network emulation, defining several experimental scenarios.  The evaluation tests will consider many differents points of view to be sure about the correct work under distinct working conditions. We will use different measures to estimate the subjective assessment of final users under different situations. These estimations will be obtained by applying different standardized theoretical models which will be studied along the document.
+
+To end with, we will present the conclusions about this project in the last chapter, as well as the keys to continue studing and developing in future works.
+
+
+\chapter*{}
+\thispagestyle{empty}
+
+\noindent\rule[-1ex]{\textwidth}{2pt}\\[4.5ex]
+
+Yo, \textbf{Cristian Alfonso Prieto Sánchez}, alumno de la titulación Grado en Ingeniería de Tecnologías de Telecomunicación de la \textbf{Escuela Técnica Superior
+de Ingenierías Informática y de Telecomunicación de la Universidad de Granada}, con DNI 75926381-T, autorizo la
+ubicación de la siguiente copia de mi Trabajo Fin de Grado en la biblioteca del centro para que pueda ser
+consultada por las personas que lo deseen.
+
+\vspace{6cm}
+
+\noindent Fdo: Cristian Alfonso Prieto Sánchez
+
+\vspace{2cm}
+
+\begin{flushright}
+Granada a 6 de Julio de 2015.
+\end{flushright}
+
+
+\chapter*{}
+\thispagestyle{empty}
+
+\noindent\rule[-1ex]{\textwidth}{2pt}\\[4.5ex]
+
+D. \textbf{Juan José Ramos Muñoz}, Profesor del Área de Telemática del Departamento Teoría de la Señal, Telemática y Comunicaciones de la Universidad de Granada.
+
+\vspace{0.5cm}
+
+
+\vspace{0.5cm}
+
+\textbf{Informa:}
+
+\vspace{0.5cm}
+
+Que el presente trabajo, titulado \textit{\textbf{Diseño y evaluación de un servicio OpenFlow de provisión de Calidad de Experiencia sobre Mininet}},
+ha sido realizado bajo su supervisión por \textbf{Cristian Alfonso Prieto Sánchez}, y autorizo la defensa de dicho trabajo ante el tribunal
+que corresponda.
+
+\vspace{0.5cm}
+
+Y para que conste, expiden y firman el presente informe en Granada a 6 de Julio de 2015.
+
+\vspace{1cm}
+
+\textbf{El director:}
+
+\vspace{5cm}
+
+\noindent \textbf{Juan José Ramos Muñoz}
+
+\chapter*{Agradecimientos}
+\thispagestyle{empty}
+
+       \vspace{1cm}
+
+
+\begin{flushright}
+\textit{Dedicado a \\
+Cada persona que me ha apoyado. \\
+Que siempre me han hecho creer en mí. \\
+Que nunca han dejado que me rinda.\\
+Como no a Manu, el apoyo de todos estos meses\\
+y en especial a ella que siempre está \\
+y siempre saca lo mejor de mí.}
+\end{flushright}
+

@@ -1,0 +1,161 @@
+\select@language {spanish}
+\contentsline {chapter}{Referencia de siglas y acr\IeC {\'o}nimos}{III}{section*.10}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{IX}{chapter*.11}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{XI}{chapter*.15}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n y objetivos}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Contexto}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivaci\IeC {\'o}n y objetivos}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Alcance del proyecto}{4}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Bibliograf\IeC {\'\i }a relevante}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Estructura de la memoria}{6}{section.1.4}
+\contentsline {chapter}{\numberline {2}Estudio del estado del arte}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Software Defined Networking}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Historia y desarrollo}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Definici\IeC {\'o}n SDN}{11}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}\IeC {\textquestiondown }Por qu\IeC {\'e} \ac {SDN}?}{12}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Beneficios te\IeC {\'o}ricos.}{12}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Apoyo de la industria.}{12}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}Arquitectura y elementos en \ac {SDN}.}{13}{subsubsection.2.1.2.4}
+\contentsline {subsection}{\numberline {2.1.3}Grupos de trabajo \ac {SDN}}{15}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}\emph {OpenFlow}}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Historia y desarrollo}{16}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Alternativas. Redes programables.}{18}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Funcionamiento \emph {OpenFlow}}{18}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Puertos \emph {OpenFlow}}{19}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Tablas \emph {OpenFlow}.}{20}{subsubsection.2.2.3.2}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Acciones.}{23}{subsubsection.2.2.3.3}
+\contentsline {subsubsection}{\numberline {2.2.3.4}\textit {OpenFlow Channel} y \textit {Control Channel}.}{24}{subsubsection.2.2.3.4}
+\contentsline {section}{\numberline {2.3}Controladores \ac {SDN}}{24}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Controladores comerciales.}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Controladores de c\IeC {\'o}digo abierto.}{26}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}\emph {OpenDayLight}}{28}{subsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.1}Historia y desarrollo.}{29}{subsubsection.2.3.3.1}
+\contentsline {subsubsection}{\numberline {2.3.3.2}Dise\IeC {\~n}o}{30}{subsubsection.2.3.3.2}
+\contentsline {chapter}{\numberline {3}Planificaci\IeC {\'o}n y costes}{33}{chapter.3}
+\contentsline {section}{\numberline {3.1}Planificaci\IeC {\'o}n temporal}{33}{section.3.1}
+\contentsline {section}{\numberline {3.2}Estimaci\IeC {\'o}n de costes}{34}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Recursos Humanos}{34}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Recursos software}{35}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Recursos hardware}{35}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Presupuesto final}{35}{subsection.3.2.4}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o de la soluci\IeC {\'o}n}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{37}{section.4.1}
+\contentsline {section}{\numberline {4.2}Clasificaci\IeC {\'o}n de paquetes}{38}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Identificaci\IeC {\'o}n de tr\IeC {\'a}fico \acs {TCP} y \acs {UDP}}{38}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Identificaci\IeC {\'o}n de v\IeC {\'\i }deo sobre \ac {RTP}}{39}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Identificaci\IeC {\'o}n de voz sobre \ac {RTP}}{40}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}\ac {ICMP}}{40}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Protocolo de encaminamiento}{40}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Algoritmo de encaminamiento}{40}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Estimaci\IeC {\'o}n de la matriz de costes}{42}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Descripci\IeC {\'o}n de m\IeC {\'e}tricas de coste}{43}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Funci\IeC {\'o}n de evaluaci\IeC {\'o}n de latencias}{44}{subsubsection.4.3.3.1}
+\contentsline {paragraph}{Topolog\IeC {\'\i }a de ejemplo.}{44}{section*.53}
+\contentsline {paragraph}{Correspondencia entre latencias y costes.}{44}{section*.54}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Funci\IeC {\'o}n de evaluaci\IeC {\'o}n de \textit {jitter}.}{45}{subsubsection.4.3.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3.3}Funci\IeC {\'o}n de evaluaci\IeC {\'o}n de p\IeC {\'e}rdidas.}{46}{subsubsection.4.3.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.4}Funci\IeC {\'o}n de evaluaci\IeC {\'o}n de carga.}{46}{subsubsection.4.3.3.4}
+\contentsline {section}{\numberline {4.4}Estimaci\IeC {\'o}n de estad\IeC {\'\i }sticas de red}{47}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Latencia y \textit {jitter}}{47}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}P\IeC {\'e}rdidas de paquetes}{49}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Carga en los enlaces}{50}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Configuraci\IeC {\'o}n de las rutas en los \emph {switches}}{51}{section.4.5}
+\contentsline {section}{\numberline {4.6}Actualizaci\IeC {\'o}n de topolog\IeC {\'\i }a}{52}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Detecci\IeC {\'o}n de cambios en la topolog\IeC {\'\i }a}{53}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Actualizaci\IeC {\'o}n de rutas}{54}{subsection.4.6.2}
+\contentsline {chapter}{\numberline {5}Entorno de desarrollo}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}Entorno de ejecuci\IeC {\'o}n}{57}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Comparativa}{57}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}\emph {Mininet}}{58}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Historia y desarrollo}{59}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Comparativa}{60}{subsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.1}Emuladores de red.}{60}{subsubsection.5.2.2.1}
+\contentsline {subsection}{\numberline {5.2.3}Dise\IeC {\~n}o de redes}{61}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}\emph {OpenDayLight}}{61}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Distribucciones y versiones}{62}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Versiones Hydrogen.}{62}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Helium.}{63}{subsubsection.5.3.1.2}
+\contentsline {subsubsection}{\numberline {5.3.1.3}Lithium}{64}{subsubsection.5.3.1.3}
+\contentsline {subsection}{\numberline {5.3.2}Desarrollo}{65}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}\ac {DOM} \ac {API}\cite {dom}.}{65}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}\ac {REST} \ac {API}.}{66}{subsubsection.5.3.2.2}
+\contentsline {subsubsection}{\numberline {5.3.2.3}JAVA \ac {API}.}{67}{subsubsection.5.3.2.3}
+\contentsline {section}{\numberline {5.4}Java}{67}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Maven}{67}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Atom}{68}{subsection.5.4.2}
+\contentsline {chapter}{\numberline {6}Implementaci\IeC {\'o}n de la soluci\IeC {\'o}n}{71}{chapter.6}
+\contentsline {section}{\numberline {6.1}Configuraci\IeC {\'o}n del entorno de red SDN sobre \emph {Mininet}}{71}{section.6.1}
+\contentsline {section}{\numberline {6.2}Descripci\IeC {\'o}n de los elementos de la red \ac {SDN} implementada}{71}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}\textit {Hosts}}{71}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Controlador}{72}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Elementos intermedios. \textit {Switches} \emph {OpenFlow}}{72}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Red de interconexi\IeC {\'o}n}{73}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Generaci\IeC {\'o}n de escenarios en \emph {Mininet}}{73}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}OpenDayLight}{74}{section.6.3}
+\contentsline {section}{\numberline {6.4}Implementaci\IeC {\'o}n en java}{75}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Desarrollo Bundle Maven para ODL}{75}{subsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.1.1}\textit {PacketHandler}}{77}{subsubsection.6.4.1.1}
+\contentsline {subsubsection}{\numberline {6.4.1.2}\textit {IListenDataPacket}}{77}{subsubsection.6.4.1.2}
+\contentsline {subsection}{\numberline {6.4.2}Obtenci\IeC {\'o}n de las estad\IeC {\'\i }sticas de latencias}{78}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Implementaci\IeC {\'o}n del algoritmo de \textit {Dijkstra}}{79}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}Reordenaci\IeC {\'o}n de caminos}{79}{subsubsection.6.4.3.1}
+\contentsline {subsection}{\numberline {6.4.4}Clases auxiliares}{79}{subsection.6.4.4}
+\contentsline {chapter}{\numberline {7}Evaluaci\IeC {\'o}n de la soluci\IeC {\'o}n}{81}{chapter.7}
+\contentsline {section}{\numberline {7.1}Evaluaci\IeC {\'o}n de los m\IeC {\'o}dulos de recolecci\IeC {\'o}n de par\IeC {\'a}metros de red}{81}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Descripci\IeC {\'o}n del entorno experimental}{82}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Estad\IeC {\'\i }sticas de tr\IeC {\'a}fico}{82}{subsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.2.1}Resultados experimentales}{83}{subsubsection.7.1.2.1}
+\contentsline {subsubsection}{\numberline {7.1.2.2}Efecto de tr\IeC {\'a}fico de fondo}{84}{subsubsection.7.1.2.2}
+\contentsline {subsubsection}{\numberline {7.1.2.3}Errores en la estimaci\IeC {\'o}n de la probabilidad de p\IeC {\'e}rdida de paquetes}{85}{subsubsection.7.1.2.3}
+\contentsline {subsection}{\numberline {7.1.3}Estimaci\IeC {\'o}n de latencias}{85}{subsection.7.1.3}
+\contentsline {section}{\numberline {7.2}Ajuste experimental de los coeficientes $\alpha _i$, $\beta _i$, $\gamma _i$ y $\sigma _i$.}{87}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Requisitos de \ac {QoS} para el tr\IeC {\'a}fico considerado}{88}{subsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.1.1}Ajuste de las variables $\alpha _i$, $\beta _i$ y $\gamma _i$}{89}{subsubsection.7.2.1.1}
+\contentsline {subsubsection}{\numberline {7.2.1.2}Estimaci\IeC {\'o}n de valores $\alpha _i$, $\beta _i$ y $\gamma _i$}{90}{subsubsection.7.2.1.2}
+\contentsline {section}{\numberline {7.3}Evaluaci\IeC {\'o}n del algoritmo de encaminamiento}{92}{section.7.3}
+\contentsline {section}{\numberline {7.4}Evaluaci\IeC {\'o}n sobre la soluci\IeC {\'o}n completa}{95}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Descripci\IeC {\'o}n del entorno experimental}{95}{subsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.1.1}Topolog\IeC {\'\i }as de red}{95}{subsubsection.7.4.1.1}
+\contentsline {subsubsection}{\numberline {7.4.1.2}Generaci\IeC {\'o}n del tr\IeC {\'a}fico}{96}{subsubsection.7.4.1.2}
+\contentsline {subsubsection}{\numberline {7.4.1.3}Medici\IeC {\'o}n objetiva de la \ac {QoE} de flujos de audio y v\IeC {\'\i }deo}{97}{subsubsection.7.4.1.3}
+\contentsline {paragraph}{Recomendaci\IeC {\'o}n G.107 para la evaluaci\IeC {\'o}n de la calidad de audio}{98}{section*.68}
+\contentsline {paragraph}{Recomendaci\IeC {\'o}n G.1070 para la evaluaci\IeC {\'o}n de la calidad de v\IeC {\'\i }deo}{98}{section*.69}
+\contentsline {subsection}{\numberline {7.4.2}Evaluaci\IeC {\'o}n objetiva de la calidad de transmisi\IeC {\'o}n}{99}{subsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.2.1}Evaluaci\IeC {\'o}n objetiva de la calidad \ac {RTP} \ac {VoIP}}{99}{subsubsection.7.4.2.1}
+\contentsline {subsubsection}{\numberline {7.4.2.2}Evaluaci\IeC {\'o}n objetiva de la calidad de transmisi\IeC {\'o}n de \ac {RTP} v\IeC {\'\i }deo}{101}{subsubsection.7.4.2.2}
+\contentsline {subsection}{\numberline {7.4.3}Evaluaci\IeC {\'o}n subjetiva de la calidad de transmisi\IeC {\'o}n}{103}{subsection.7.4.3}
+\contentsline {chapter}{\numberline {8}Conclusiones y l\IeC {\'\i }neas de trabajo futuras}{107}{chapter.8}
+\contentsline {section}{\numberline {8.1}Conclusiones}{107}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Conclusiones sobre \ac {SDN} y protocolo \emph {OpenFlow}}{107}{subsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.1}Conclusiones sobre \ac {SDN}}{108}{subsubsection.8.1.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.2}Conclusiones sobre \emph {OpenFlow}}{108}{subsubsection.8.1.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Conclusiones sobre \emph {Mininet} y \emph {OpenDayLight}}{108}{subsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8.1.2.1}Conclusiones sobre \emph {Mininet}}{108}{subsubsection.8.1.2.1}
+\contentsline {subsubsection}{\numberline {8.1.2.2}Conclusiones sobre controlador \emph {OpenDayLight}}{108}{subsubsection.8.1.2.2}
+\contentsline {subsection}{\numberline {8.1.3}Conclusiones sobre los resultados}{108}{subsection.8.1.3}
+\contentsline {subsubsection}{\numberline {8.1.3.1}Resultados objetivos}{109}{subsubsection.8.1.3.1}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n sobre resultados \ac {RTP} audio}{109}{section*.71}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n sobre resultados \ac {RTP} v\IeC {\'\i }deo}{109}{section*.72}
+\contentsline {subsubsection}{\numberline {8.1.3.2}Resultados subjetivos para v\IeC {\'\i }deo}{110}{subsubsection.8.1.3.2}
+\contentsline {section}{\numberline {8.2}L\IeC {\'\i }neas de trabajo futuras}{110}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}L\IeC {\'\i }neas te\IeC {\'o}ricas}{110}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}L\IeC {\'\i }neas pr\IeC {\'a}cticas}{110}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {A}Configuraci\IeC {\'o}n del entorno de trabajo}{113}{appendix.Alph1}
+\contentsline {section}{\numberline {A.1}Configuraci\IeC {\'o}n Ubuntu}{113}{section.Alph1.1}
+\contentsline {section}{\numberline {A.2}Configuraci\IeC {\'o}n \emph {Mininet}}{114}{section.Alph1.2}
+\contentsline {section}{\numberline {A.3}Configuraci\IeC {\'o}n controlador \emph {OpenDayLight}}{115}{section.Alph1.3}
+\contentsline {section}{\numberline {A.4}Problemas frecuentes}{116}{section.Alph1.4}
+\contentsline {chapter}{\numberline {B}Dise\IeC {\~n}o de topolog\IeC {\'\i }as y algoritmo de encaminamiento}{117}{appendix.Alph2}
+\contentsline {section}{\numberline {B.1}Ejemplo algoritmo \textit {Dijkstra} paso a paso.}{117}{section.Alph2.1}
+\contentsline {section}{\numberline {B.2}Dise\IeC {\~n}o de topolog\IeC {\'\i }as Python \ac {API}}{118}{section.Alph2.2}
+\contentsline {subsection}{\numberline {B.2.1}Topolog\IeC {\'\i }a b\IeC {\'a}sica}{118}{subsection.Alph2.2.1}
+\contentsline {chapter}{\numberline {C}C\IeC {\'o}digo fuente de la aplicaci\IeC {\'o}n desarrollada}{123}{appendix.Alph3}
+\contentsline {section}{\numberline {C.1}pom.xml}{123}{section.Alph3.1}
+\contentsline {section}{\numberline {C.2}Activator.java}{126}{section.Alph3.2}
+\contentsline {section}{\numberline {C.3}PacketHandler.java}{130}{section.Alph3.3}
+\contentsline {subsection}{\numberline {C.3.1}Implementaci\IeC {\'o}n IListenDataPacket}{130}{subsection.Alph3.3.1}
+\contentsline {subsection}{\numberline {C.3.2}updateTopology}{132}{subsection.Alph3.3.2}
+\contentsline {subsection}{\numberline {C.3.3}Comprobaci\IeC {\'o}n de latencias}{134}{subsection.Alph3.3.3}
+\contentsline {section}{\numberline {C.4}Implementaci\IeC {\'o}n manejador \ac {RTP} V\IeC {\'\i }deo}{135}{section.Alph3.4}
+\contentsline {subsection}{\numberline {C.4.1}Construcci\IeC {\'o}n Transformer \ac {RTP} V\IeC {\'\i }deo}{137}{subsection.Alph3.4.1}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{139}{section*.73}
